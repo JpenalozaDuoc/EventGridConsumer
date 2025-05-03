@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=dsy2207001adcnative9414;AccountKey=mtz7tu+zmp2WuDpOyYhDw+DinPHtnsfydp3A87mSQ0GesIRjMyOyZZRJ+qG7EH9zLUHgotNnn2SK+AStcIyeLQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "EventGridSubscriptionKey": "4QLrThROPNgPIAuVW6QvaPkJuFl8F9SWkjjtU1pT04gES7FpzZaQJQQJ99BDACHYHv6XJ3w3AAABAZEGfNYs"
+  }
+}
